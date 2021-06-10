@@ -25,7 +25,7 @@ if (empty($_POST["terms"])) {
     $terms = $_POST["terms"];
 }
 
-$EmailTo = "geobiconsultants@gmail.com";
+$EmailTo = "ratwise0@gmail.com";
 $Subject = "GEO-BI NEW MESSAGE";
 
 // prepare email body text
